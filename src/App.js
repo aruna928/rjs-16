@@ -16,7 +16,8 @@ import Contacts from "./Contacts";
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/rjs-16">
+
 
       <div>
 
